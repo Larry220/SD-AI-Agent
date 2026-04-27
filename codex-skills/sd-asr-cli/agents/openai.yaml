@@ -1,0 +1,6 @@
+interface:
+  display_name: "SD ASR CLI"
+  short_description: "Use and troubleshoot sd-asr CLI"
+  default_prompt: "Use $sd-asr-cli to configure, check, and run sd-asr transcription safely."
+policy:
+  allow_implicit_invocation: true
